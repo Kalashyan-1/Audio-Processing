@@ -48,7 +48,7 @@ git clone https://github.com/Kalashyan-1/Audio-Processing.git
 
 ## Screenshot
 
-![Screenshot](assets/Screenshot.png)
+![Screenshot](Audio-Processing/assets/Screenshot.png)
 
 ## Contributing
 Contributions are welcome! If you'd like to enhance this project, feel free to fork the repository and submit a pull request.
